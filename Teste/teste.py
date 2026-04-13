@@ -1,5 +1,8 @@
 
 import numpy as np
+
+import pandas as pd
+
 '''
 import time
 import sys
@@ -32,3 +35,4 @@ arr=np.append(arr,[4,5,6])
 print(arr)
 arr = np.delete(arr,0)
 print(arr)
+
